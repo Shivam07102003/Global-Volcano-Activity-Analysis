@@ -12,7 +12,7 @@ The project combines exploratory data analysis, geospatial visualization, featur
 
 ## 🖼️ Project Poster
 
-![Global Volcano Activity Analysis poster](poster/DS_Poster.png)
+![Global Volcano Activity Analysis poster](poster/DS_Poster.jpg)
 
 📄 [View or download the full poster PDF](poster/DS_Poster.pdf)
 
