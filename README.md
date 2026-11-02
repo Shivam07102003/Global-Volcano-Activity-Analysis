@@ -10,6 +10,12 @@ An end-to-end data science and machine learning project analyzing global volcani
 
 The project combines exploratory data analysis, geospatial visualization, feature engineering, supervised learning, class-imbalance handling, and VEI prediction using data from the Smithsonian Global Volcanism Program.
 
+## 🖼️ Project Poster
+
+![Global Volcano Activity Analysis poster](poster/DS_Poster.png)
+
+📄 [View or download the full poster PDF](poster/DS_Poster.pdf)
+
 ## 📌 Project Highlights
 
 - 🌍 Analyzed **9,902 eruption records** covering approximately **12,000 years** of volcanic activity.
