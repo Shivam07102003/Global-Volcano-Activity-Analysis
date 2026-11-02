@@ -1,0 +1,27 @@
+# Core data analysis
+numpy
+pandas
+scipy
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+plotly
+folium
+
+# Geospatial analysis
+geopandas
+shapely
+pyproj
+fiona
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+missingno
+joblib
+
+# Notebook environment
+jupyter

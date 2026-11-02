@@ -1,0 +1,51 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+ENV/
+.env
+.ipynb_checkpoints/
+
+# Generated/intermediate datasets
+EDA_1.xlsx
+Model_1.xlsx
+Model_2.xlsx
+Model_3.xlsx
+Model_4.xlsx
+Modeling.xlsx
+Modeling_Compact.xlsx
+final_modeling.xlsx
+Merged_Volcano_Eruptions.xlsx
+Model_Merged_Volcano_Eruptions.xlsx
+Predicted_Missing_VEI.xlsx
+Predicted_Unclassified_VEIs.xlsx
+
+# Unrelated or accidental datasets
+ibtracs.last3years.list.v04r01
+
+# Poster drafts, examples, and editing files
+DS_Poster.pptx
+DS_Project_Poster.pptx
+V*Project_Poster.pptx
+Example-Poster*.pptx
+sample-poster-*.pptx
+Step9_Goals_and_Findings.docx
+poster info.txt
+mean_vei_by_volcano_type
+
+# Generated poster images and browser previews
+make_me_an_image_of_a_volcano*
+test_*.html
+test_*.htm
+*_files/
+
+# Temporary and operating-system files
+~$*
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
